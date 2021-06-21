@@ -1,6 +1,6 @@
 # 우아한 테크코스 레벨2 학습로그
 
-# 스프링 체
+# 스프링 체스 
 
 ## Spring MVC
 
@@ -68,10 +68,7 @@
 - HTTP 상태 코드, REST API, Web Programming
 
 
-
-
-
-
+***
 
 
 # 지하철 노선도 관리
@@ -183,6 +180,8 @@
 - slf4j, Logger, LoggerFactory
 
 
+***
+
 
 # 지하철 경로 조회
 
@@ -268,6 +267,8 @@ Spring Annotation, @Transactional
 
 참고 : [10분 테코톡 - 루피의 인증과 인가](https://www.youtube.com/watch?v=JZgD8aPkHSc&t=35s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech), 
 
+
+***
 
 
 # 스프링 협업 미션
