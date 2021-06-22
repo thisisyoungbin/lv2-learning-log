@@ -79,8 +79,8 @@
 - 서비스 정상 트래픽과 관리자용 트래픽을 구분할 수 있다.
 
 ## 태그
-
 Bastion, 운영, 보안
+참고 : [1단계 배포하기](https://techcourse.woowahan.com/s/U8wOamCU/ls/b0qhNm2t)
 
 
 
@@ -120,6 +120,8 @@ Bastion, 운영, 보안
 ## 태그
 
 네트워크, 운영 
+
+참고 : [10분 테코톡 - 조앤의 프록시, 리버스 프록시, 로드밸런서](https://www.youtube.com/watch?v=u4O4zHdiFhk)
 
 ***
 
